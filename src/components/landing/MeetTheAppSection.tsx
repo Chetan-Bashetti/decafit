@@ -29,7 +29,7 @@ export function MeetTheAppSection() {
       <div className="mx-auto max-w-6xl">
         <div className="mx-auto max-w-3xl text-center">
           <p className="text-xs font-bold uppercase tracking-[0.35em] text-deck-hype">
-            Meet the Deckfit hub
+            Meet the Decafit hub
           </p>
           <h2 className="mt-3 font-display text-4xl tracking-wide text-white sm:text-6xl">
             Coach-led hybrid race training —{" "}

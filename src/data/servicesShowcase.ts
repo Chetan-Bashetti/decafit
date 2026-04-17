@@ -17,7 +17,7 @@ export interface ServiceItem {
   accent: string;
 }
 
-/** Eight pillars aligned with DECA hybrid coaching offerings. */
+/** Eight pillars aligned with hybrid coaching offerings (Team Inspiration). */
 export const SERVICES_SHOWCASE: ServiceItem[] = [
   {
     title: "Marathon training",

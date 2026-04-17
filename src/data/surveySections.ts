@@ -309,7 +309,7 @@ export const SURVEY_SECTIONS: SurveySection[] = [
       },
       {
         id: "tshirtSize",
-        label: "T-shirt size (Team Inspiration / Deckfit)",
+        label: "T-shirt size (Team Inspiration / Decafit)",
         type: "select",
         options: [
           { value: "xs", label: "XS" },

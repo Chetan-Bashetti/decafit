@@ -19,7 +19,7 @@ export function MarketingLayout({ children }: MarketingLayoutProps) {
               <Flame className="h-5 w-5 text-black" strokeWidth={2.4} />
             </span>
             <span className="font-display text-2xl tracking-[0.02em] text-white">
-              DECA<span className="text-gradient-fire">fit</span>
+              DECAF<span className="text-gradient-fire">it</span>
             </span>
           </Link>
           <nav className="flex flex-wrap items-center justify-end gap-2 text-xs font-semibold text-deck-muted sm:gap-6 sm:text-sm">
@@ -53,7 +53,7 @@ export function MarketingLayout({ children }: MarketingLayoutProps) {
       {children}
       <footer className="border-t border-white/5 bg-deck-surface/50 py-12">
         <div className="mx-auto max-w-6xl px-4 text-center sm:px-6">
-          <p className="font-display text-lg text-gradient-fire">Deckfit</p>
+          <p className="font-display text-lg text-gradient-fire">Decafit</p>
           <p className="mt-2 text-xs text-deck-muted">
             Pune-based · Global impact · Team Inspiration · Certified hybrid-fitness coaching
           </p>

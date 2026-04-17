@@ -6,8 +6,8 @@ export interface WorkoutBlock {
 }
 
 export const CHALLENGE_OF_DAY = {
-  programName: "Deckfit Circuit",
-  title: "Deckfit Circuit",
+  programName: "Decafit Circuit",
+  title: "Decafit Circuit",
   day: 2,
   focus: "Sled Power & Interval Engine",
   tagline: "Intervals that build repeatability under load — the core of race-day legs.",

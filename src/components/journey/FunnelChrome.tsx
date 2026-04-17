@@ -30,7 +30,7 @@ export function FunnelChrome({ subtitle }: FunnelChromeProps) {
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <Link to="/" className="flex items-center gap-2">
             <span className="font-display text-xl text-white">
-              DECA<span className="text-gradient-fire">fit</span>
+              DECAF<span className="text-gradient-fire">it</span>
             </span>
             {subtitle && (
               <span className="hidden text-xs text-deck-muted sm:inline">

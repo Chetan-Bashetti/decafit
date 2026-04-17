@@ -15,7 +15,7 @@ export function StationsEightSection() {
               <span className="text-gradient-hype">race station</span>
             </h2>
             <p className="mt-4 max-w-2xl text-sm leading-relaxed text-zinc-400 sm:text-base">
-              Technique, pacing, and mistakes to fix — mapped to how Deckfit prescribes sessions
+              Technique, pacing, and mistakes to fix — mapped to how Decafit prescribes sessions
               in your dashboard.
             </p>
           </div>

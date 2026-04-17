@@ -51,7 +51,7 @@ export function DashboardPage() {
         <div className="flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.25em] text-deck-cyan">
-              Welcome back · Deckfit dashboard
+              Welcome back · Decafit dashboard
             </p>
             <h1 className="mt-2 font-display text-5xl text-white sm:text-6xl">
               Let&apos;s execute today.

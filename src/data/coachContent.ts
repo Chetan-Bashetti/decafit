@@ -34,7 +34,7 @@ export const COACH_HIGHLIGHTS = [
   },
   {
     title: "No-nonsense execution",
-    body: "Less gimmicks, more repeatable habits — the same ethos you'll see in Deckfit programming and feedback loops.",
+    body: "Less gimmicks, more repeatable habits — the same ethos you'll see in Decafit programming and feedback loops.",
   },
   {
     title: "Engineer + coach",

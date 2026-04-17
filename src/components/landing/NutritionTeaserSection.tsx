@@ -38,7 +38,7 @@ export function NutritionTeaserSection() {
               <span className="text-gradient-fire">without the fluff</span>
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-zinc-400 sm:text-base">
-              Quick nutrition questionnaires are common — Deckfit ties food to your{" "}
+              Quick nutrition questionnaires are common — Decafit ties food to your{" "}
               <strong className="text-zinc-200">tier</strong>: Silver gets sensible defaults; Gold
               and Diamond unlock deeper analysis when you upload labs.
             </p>

@@ -21,7 +21,7 @@ export function HeroBanner() {
           Train smarter with
         </p>
         <h1 className="mt-1 font-display text-6xl leading-[0.9] tracking-[0.02em] text-deck-hype sm:text-8xl md:text-9xl [text-shadow:0_0_60px_rgba(255,230,0,0.25)]">
-          DECKFIT
+          DECAFIT
         </h1>
 
         <p className="mt-8 max-w-2xl text-base leading-relaxed text-zinc-400 sm:text-lg">

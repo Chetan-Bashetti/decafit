@@ -31,10 +31,10 @@ export function AppShell({
             >
               <Link to="/" className="flex items-baseline gap-2">
                 <span className="font-display text-2xl tracking-wide text-white">
-                  DECA<span className="text-gradient-fire">fit</span>
+                  DECAF<span className="text-gradient-fire">it</span>
                 </span>
                 <span className="hidden text-xs uppercase tracking-widest text-deck-muted sm:inline">
-                  Deckfit
+                  Decafit
                 </span>
               </Link>
             </div>

@@ -9,7 +9,7 @@ import {
 } from "react";
 import type { MembershipTierId } from "@/types";
 
-const STORAGE_KEY = "deckfit.journey.v1";
+const STORAGE_KEY = "decafit.journey.v1";
 
 interface JourneyState {
   tier: MembershipTierId | null;

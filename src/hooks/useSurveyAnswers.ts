@@ -1,6 +1,6 @@
 import { useCallback, useState } from "react";
 
-const STORAGE_KEY = "deckfit.survey.v2";
+const STORAGE_KEY = "decafit.survey.v2";
 
 export type SurveyAnswers = Record<string, string>;
 

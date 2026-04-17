@@ -13,7 +13,7 @@ export function ServicesGrid() {
             <span className="text-deck-hype">one coach philosophy</span>
           </h2>
           <p className="mt-3 text-zinc-400">
-            Many apps stop at random workouts — Deckfit pairs structured blocks with
+            Many apps stop at random workouts — Decafit pairs structured blocks with
             India-based coaching, travel-aware planning, and team culture.
           </p>
         </div>
