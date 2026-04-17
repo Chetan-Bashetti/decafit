@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-deck-black text-zinc-100 font-sans antialiased min-h-screen;
+}
+
+#root {
+  @apply min-h-screen;
+}
+
+@layer utilities {
+  .text-gradient-fire {
+    @apply bg-gradient-to-r from-deck-coral via-deck-orange to-deck-amber bg-clip-text text-transparent;
+  }
+  .text-gradient-ice {
+    @apply bg-gradient-to-r from-deck-cyan via-deck-violet to-deck-magenta bg-clip-text text-transparent;
+  }
+  .ring-glow {
+    box-shadow:
+      0 0 0 1px rgba(255, 107, 33, 0.35),
+      0 0 40px -8px rgba(255, 107, 33, 0.25);
+  }
+  .text-gradient-hype {
+    @apply bg-gradient-to-b from-deck-hype to-amber-300 bg-clip-text text-transparent;
+  }
+}
